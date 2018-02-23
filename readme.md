@@ -11,3 +11,4 @@ Exported from https://sourceforge.net/projects/javabar/
 - http://www.onbarcode.com/products/net_barcode_reader/
 - https://en.wikipedia.org/wiki/Barcode
 - https://stackoverflow.com/questions/19874557/read-barcode-from-an-image-in-java
+- http://svn.code.sf.net/p/javaocr/code/trunk/
